@@ -1,2 +1,2 @@
 # ulson
-A dynamic website for a small scale industry - Ulson Powerflex
+A dynamic website for a small company - Ulson Powerflex
